@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"findreplace_small": true,
+	"font_size": 11,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"predawn_tabs_small": true,
+	"scroll_past_end": true,
+	"sidebar_default": true,
+	"sidebar_large": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"update_check": false,
+	"word_wrap": true
+}
